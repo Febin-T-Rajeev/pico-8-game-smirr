@@ -1,5 +1,5 @@
-## pico-8-game-smirr
-its an adrenaline pumping game developed in pico-8
+## pico-8-game-smirr (mobile 📱and pc 💻)
+its an adrenaline pumping game developed in pico-8 
 # <a href = "https://ftr-studio.itch.io/smirr">PLAY NOW</a>
 # <a href = "https://ftr-studio.itch.io/smirr"><img src="https://media.tenor.com/xLc_xJ6bhPwAAAAS/cool-button.gif" alt="PLAY NOW"></a>
 ## controls
